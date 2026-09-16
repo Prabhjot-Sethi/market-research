@@ -1,0 +1,7 @@
+# Rendered artifacts are derived from report.md — regenerate, don't version
+runs/*/out/
+
+# Scratch
+.DS_Store
+*.tmp
+node_modules/
